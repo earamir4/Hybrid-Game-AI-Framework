@@ -8,6 +8,7 @@ Even though AI has continued to advance through the implementation of neural net
 machine learning, game AI tends to implement a series of states or decisions instead to give the
 illusion of intelligence. Despite this limitation, games can still generate a wide range of
 experiences for the player.
+
 The Hybrid Game AI Framework is an AI system that combines the benefits of two commonly
 used approaches to developing game AI: Behavior Trees and Finite State Machines. Developed
 in the Unity Game Engine and the C# programming language, this AI Framework represents the
